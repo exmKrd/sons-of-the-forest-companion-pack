@@ -206,4 +206,4 @@ instead of running an old one.
 
 ---
 
-*sons-of-the-forest-companion-pack · Updated 2026-11-26 · Shared under the MIT License*
+*sons-of-the-forest-companion-pack · Updated 2026-11-27 · Shared under the MIT License*
